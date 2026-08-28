@@ -46,7 +46,7 @@ int main(){
 //tipo de dado - Inteiro
 // (int), pode ser positivo ou negativo +/-
  
-//tipo de dado - Char - Letras
+//tipo de dado - Char 
 // (letras, números, caractere especial, acentuação, espaço em branco)
  
 // Operadores
