@@ -6,7 +6,7 @@ int main(){
     int idade, cpf;
     float saldo, media;
 // Variáveis
- 
+
  
     printf("Digite seu nome: \n"); // printf (imprime na tela)
     fgets(nome, 50, stdin); // fgets (Variável, tamanho, entrada padrão)
@@ -39,7 +39,7 @@ int main(){
 //return 0;
 //}
  
-               
+    
 //tipo de dado - Float  
 // (real), (inteiro)
  
@@ -54,4 +54,6 @@ int main(){
 // Relacionais - == (igual), != (diferente), < (menor), > (maior), <= (menor ou igual), >= (maior ou igual)
 // Lógicos - && (e), || (ou), ! (não)
 // Atribuição - = (atribuição), += (adição e atribuição), -= (subtração e atribuição), *= (multiplicação e atribuição), /= (divisão e atribuição)
+
+
  
